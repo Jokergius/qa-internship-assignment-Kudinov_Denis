@@ -1,0 +1,1 @@
+# qa-internship-assignment-Kudinov_Denis
