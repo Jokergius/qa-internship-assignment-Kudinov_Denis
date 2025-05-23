@@ -11,13 +11,13 @@
 ### automation
 Хранит автоматизированные тесты, написанные с использованием Playwright.
 
-### REST-API.md
+### REST-API.docx
 Отчёт по проделанной работе с REST API сервиса.
 
-### link-validation.md
+### link-validation.xlsx
 Результаты проверки доступности и корректности ссылок сайта Voxys.
 
-### testing-theory.md
+### testing-theory.docx
 Ответы на теоретические вопросы тестового задания.
 
 
